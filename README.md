@@ -1,5 +1,23 @@
 # imcv2
- Calculadora de IMC - Índice de Massa Corporal
+
+ Eng:
+
+
+BMI Calculator - Body Mass Index
+
+ Synopsis: The BMI Calculator is my first web development project, developed with JavaScript, HTML and CSS.  The main objective is to calculate the BMI (Body Mass Index) quickly and simply, allowing users to keep track of their health and well-being.
+
+ The application has a friendly and intuitive interface, where users can enter their weight (in kilograms) and height (in meters).  By clicking on the "Calculate" button, the calculator processes the information provided and displays the calculated BMI.
+
+ In addition, the BMI Calculator also provides additional information, featuring a list of ideal BMI values ​​to guide users on what is considered healthy for their height range.
+
+ The project was developed with a focus on usability and responsiveness, ensuring that users can access and use the calculator on different devices, such as desktops, tablets and smartphones.
+
+ With the BMI Calculator, I hope to help people become more aware of their health and encourage them to maintain a healthy lifestyle.  The project is publicly available on GitHub, so others can also use it, contribute improvements, and learn from the source code.
+
+PT-BR:
+
+Calculadora de IMC - Índice de Massa Corporal
 
 Sinopse:
 A Calculadora de IMC é o meu primeiro projeto de desenvolvimento web, desenvolvido com JavaScript, HTML e CSS. 
